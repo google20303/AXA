@@ -1,0 +1,37 @@
+.glave {
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: blue;
+}
+
+.a1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.header1 {
+    background-color: aquamarine;
+}
+
+.h1 {
+    align-items: center;
+    text-align: center;
+}
+
+.li1 {
+    background-color: darkturquoise;
+    border: 2px dashed rgb(255, 230, 0);
+}
+
+.li3 {
+    border: 2px dashed cornflowerblue;
+}
